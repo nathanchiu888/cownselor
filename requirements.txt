@@ -1,0 +1,13 @@
+langchain
+langchain-community
+faiss-cpu
+sentence-transformers
+ollama
+streamlit
+pypdf
+python-docx
+pandas
+python-dotenv
+pydantic
+tiktoken
+pymupdf==1.24.3

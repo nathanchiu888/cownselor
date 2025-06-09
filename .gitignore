@@ -1,0 +1,10 @@
+__pycache__
+.streamlit
+vectorstore
+venv
+start_cownselor.bat
+docs/Frequently Asked Questions _ Computer Science _ UC Davis Engineering.pdf
+docs/Course Schedule _ Computer Science _ UC Davis Engineering.pdf
+docs/Changing Majors and Double Majors _ Computer Science _ UC Davis Engineering.pdf
+docs/Schedules and Classes _ Computer Science _ UC Davis Engineering.pdf
+docs/Advising _ Computer Science _ UC Davis Engineering.pdf
